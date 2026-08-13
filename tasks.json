@@ -13,12 +13,16 @@
   },
   {
     "id": 2,
-    "title": "Cashback Offer",
-    "description": "Shop through the referral link and get cashback.",
-    "reward": "Up to ₹250",
+    "title": "Open Zero Balance Kotak 811 Bank",
+    "description": "Open Kotak 811 Super Savings Account in just 3 mins 🚀
+0️⃣ Open with a one-time ₹10,000 deposit
+💳 Get a FREE Visa Platinum Debit Card
+💰 Get 5% cashback up to ₹500 every month on your Debit Card spends*
+💸 Get up to ₹6,000 cashback on Debit Card spends 🎉.",
+    "reward": "open Bank account",
     "category": "Cashback",
-    "image": "https://example.com/cashback.png",
-    "link": "https://example.com/ref456",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj-Qp477cmAukRZgXiE2koF03bu3JR9vUd7XxdIn3y0A&s=10",
+    "link": "https://sales.gromo.in/kt/0etc-wAtdX",
     "featured": false,
     "status": "active"
   }
