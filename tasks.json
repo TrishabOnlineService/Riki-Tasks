@@ -1,1 +1,25 @@
 
+[
+  {
+    "id": 1,
+    "title": "Survey App",
+    "description": "Complete surveys and earn rewards.",
+    "reward": "Up to ₹100",
+    "category": "Survey",
+    "image": "https://example.com/survey.png",
+    "link": "https://example.com/ref123",
+    "featured": true,
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "title": "Cashback Offer",
+    "description": "Shop through the referral link and get cashback.",
+    "reward": "Up to ₹250",
+    "category": "Cashback",
+    "image": "https://example.com/cashback.png",
+    "link": "https://example.com/ref456",
+    "featured": false,
+    "status": "active"
+  }
+]
