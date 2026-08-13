@@ -2,12 +2,12 @@
 [
   {
     "id": 1,
-    "title": "Survey App",
-    "description": "Complete surveys and earn rewards.",
+    "title": "Meesho",
+    "description": "Join Meesho and get cheapest prices online. Install via my link and get 40% OFF on your first order",
     "reward": "Up to ₹100",
-    "category": "Survey",
-    "image": "https://example.com/survey.png",
-    "link": "https://example.com/ref123",
+    "category": "Shopping",
+    "image": "https://play-lh.googleusercontent.com/lQrsRJ7PT25f2J8n14Zp4j0695_2NIpIUEQpG6bEuljhk7oJ8q_GeA5iYgWm1DiDq0WFPBWP4iaJcXi4XPwoWCk=w240-h480-rw",
+    "link": "https://app.meesho.com/2yoV/r99th0qd?via=5fcn7l&from=home_page_pill",
     "featured": true,
     "status": "active"
   },
